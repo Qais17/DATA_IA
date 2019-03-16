@@ -1,0 +1,9 @@
+tensorflow
+matplotlib
+numpy
+Image
+opencv-python
+sklearn
+jupyter
+scipy
+flask-socketio
